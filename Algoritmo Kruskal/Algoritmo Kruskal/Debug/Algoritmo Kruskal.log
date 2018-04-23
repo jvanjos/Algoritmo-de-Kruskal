@@ -1,0 +1,9 @@
+﻿  Algoritmo Kruskal.cpp
+c:\users\jvanj\source\repos\algoritmo kruskal\algoritmo kruskal\algoritmo kruskal.cpp(32): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\algoritmo kruskal\algoritmo kruskal\algoritmo kruskal.cpp(36): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\algoritmo kruskal\algoritmo kruskal\algoritmo kruskal.cpp(44): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\algoritmo kruskal\algoritmo kruskal\algoritmo kruskal.cpp(72): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\algoritmo kruskal\algoritmo kruskal\algoritmo kruskal.cpp(89): warning C4101: 'j': variável local não referenciada
+c:\users\jvanj\source\repos\algoritmo kruskal\algoritmo kruskal\algoritmo kruskal.cpp(133): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\algoritmo kruskal\algoritmo kruskal\algoritmo kruskal.cpp(125): warning C4715: 'criaGrafo': nem todos os caminhos de controle retornam um valor
+  Algoritmo Kruskal.vcxproj -> C:\Users\jvanj\source\repos\Algoritmo Kruskal\Debug\Algoritmo Kruskal.exe
