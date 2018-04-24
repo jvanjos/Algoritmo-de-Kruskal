@@ -1,13 +1,15 @@
-﻿  stdafx.cpp
-  Algoritmo Kruskal.cpp
+﻿  Algoritmo Kruskal.cpp
 Algoritmo Kruskal.cpp(32): warning C4018: '<': incompatibilidade de signed/unsigned
 Algoritmo Kruskal.cpp(36): warning C4018: '<': incompatibilidade de signed/unsigned
 Algoritmo Kruskal.cpp(44): warning C4018: '<': incompatibilidade de signed/unsigned
+Algoritmo Kruskal.cpp(50): warning C4018: '<': incompatibilidade de signed/unsigned
 Algoritmo Kruskal.cpp(72): warning C4018: '<': incompatibilidade de signed/unsigned
-Algoritmo Kruskal.cpp(89): warning C4101: 'j': variável local não referenciada
-Algoritmo Kruskal.cpp(133): warning C4018: '<': incompatibilidade de signed/unsigned
+Algoritmo Kruskal.cpp(77): warning C4018: '<': incompatibilidade de signed/unsigned
+Algoritmo Kruskal.cpp(94): warning C4101: 'j': variável local não referenciada
+Algoritmo Kruskal.cpp(138): warning C4018: '<': incompatibilidade de signed/unsigned
   Gerando código
-c:\users\jvanj\source\repos\algoritmo kruskal\algoritmo kruskal\algoritmo kruskal.cpp(125): warning C4715: 'criaGrafo': nem todos os caminhos de controle retornam um valor
-  All 423 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  2 of 427 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
   Finalizada a geração de código
   Algoritmo Kruskal.vcxproj -> C:\Users\jvanj\source\repos\Algoritmo Kruskal\Release\Algoritmo Kruskal.exe
